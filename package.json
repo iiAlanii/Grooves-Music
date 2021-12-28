@@ -1,0 +1,26 @@
+{
+  "name": "grooves-music",
+  "main": "index.js",
+  "author": "iiAlanii",
+  "version": "1.0.0",
+  "repository": "",
+  "description": "A simple but old/outdated version of Grooves Music. Simple Discord Music Bot",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "@discordjs/opus": "^0.3.3",
+    "axios": "^0.24.0",
+    "discord-player": "^3.3.2",
+    "discord-reply": "^0.1.2",
+    "discord.js": "^12.5.3",
+    "discord.js-pagination": "^1.0.3",
+    "ffmpeg-static": "^4.2.7",
+    "mathjs": "^9.5.0",
+    "moment": "^2.29.1",
+    "node-opus": "^0.3.3",
+    "node-osu": "^2.2.1",
+    "os": "^0.1.2",
+    "quick.db": "^7.1.3"
+  }
+}
